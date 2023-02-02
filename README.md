@@ -7,4 +7,11 @@ For more details, please download the paper from this link: https://arxiv.org/ab
 # Contributers
 Pragma Kar, Shyamvanshikumar Singh, Avijit Mandal, Samiran Chattopadhyay, Sandip Chakraborty
 
-
+# Project Details
+1. MainActivity.java
+Contains functions for generating chirps, playing chirps, recording signals, setting up the YouTube player, etc.
+2. SignalProcessor.java
+Contains functions for different signal processing stages like Fourier Transform, Cross Correlation, Frequency bin selection, feature generation (phase, amplitude), prediction of expressions,  and related functions.
+3. Result.java
+Contains functions for generating graphs and engagement scores.
+4. Other related files : CircularBuffer.java, Filter.java
