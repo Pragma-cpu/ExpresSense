@@ -17,7 +17,8 @@ Contains functions for generating chirps, playing chirps, recording signals, set
 Contains functions for different signal processing stages like Fourier Transform, Cross Correlation, Frequency bin selection, feature generation (phase, amplitude), prediction of expressions,  and related functions.
 ##. Result.java
 Contains functions for generating graphs and engagement scores.
-## Other related files : CircularBuffer.java, Filter.java
+## Other related files 
+CircularBuffer.java, Filter.java
 ## .csv Files
 Contains partial data collected from different sessions and users. 
 
