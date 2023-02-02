@@ -5,7 +5,7 @@ By correlating the detected facial expressions with the current video genre, the
 For more details, please download the paper from this link: https://arxiv.org/abs/2301.06762
 
 # Video
-Teaser Video of or paper is available on YouTube : https://www.youtube.com/watch?v=p5IqMn4Q7FM
+Teaser Video of our paper is available on YouTube : https://www.youtube.com/watch?v=p5IqMn4Q7FM
 
 # Contributers
 Pragma Kar, Shyamvanshikumar Singh, Avijit Mandal, Samiran Chattopadhyay, Sandip Chakraborty
