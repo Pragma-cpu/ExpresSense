@@ -17,7 +17,7 @@ Pragma Kar, Shyamvanshikumar Singh, Avijit Mandal, Samiran Chattopadhyay, Sandip
 Contains functions for generating chirps, playing chirps, recording signals, setting up the YouTube player, etc.
 ## SignalProcessor.java
 Contains functions for different signal processing stages like Fourier Transform, Cross Correlation, Frequency bin selection, feature generation (phase, amplitude), prediction of expressions,  and related functions.
-##. Result.java
+## Result.java
 Contains functions for generating graphs and engagement scores.
 ## Other related files 
 CircularBuffer.java, Filter.java
