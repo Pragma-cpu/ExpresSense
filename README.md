@@ -26,6 +26,7 @@ Contains partial data collected from different sessions and users.
 
 # Reference
 Please cite our paper as follows:
+
 Kar, P., Singh, S., Mandal, A., Chattopadhyay, S., & Chakraborty, S. (2023). ExpresSense: Exploring a Standalone Smartphone to Sense Engagement of Users from Facial Expressions Using Acoustic Sensing. arXiv preprint arXiv:2301.06762.
 
 
